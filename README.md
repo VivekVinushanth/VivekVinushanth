@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 <!--
-**VivekVinushanth/VivekVinushanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VivekVinushanth/VivekVinushanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😃 I’m ViveVinushanth, an Undergraduate,Dept. of Computer Science & Engineering,University of Moratuwa.
+- 🏢 I was an intern @ WSO2 (Identity Server Team) 
+- 🔭 Currently working on: Human Affect Based Threat Prediction
+- 🌱 I’m currently learning: MachineLearning, DeepLearning & NN, DataMining
+- 💬 Ask me about: IAM, CIBA, EG-SMOTE 
+- :black_nib: I blog in : [Medium/Vivek_Blogs](https://medium.com/@vivekc.16)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vivek-vinushanth-christopher/)
+- 🐦 I am in Twitter: [Twitter](https://twitter.com/CVinushanth)
+
