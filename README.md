@@ -13,4 +13,13 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vivek-vinushanth-christopher/)
 - 🐦 I am in Twitter: [Twitter](https://twitter.com/CVinushanth)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VivekVinushanth)]
+![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=VivekVinushanth&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekVinushanth&layout=compact&hide=css,html,javascript)
+
+Latest Blogs:
+
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekc.16/0)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekc.16/1)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekc.16/2)
+
