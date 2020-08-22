@@ -13,4 +13,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vivek-vinushanth-christopher/)
 - 🐦 I am in Twitter: [Twitter](https://twitter.com/CVinushanth)
 
-[![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=VivekVinushanth)](https://github.com/VivekVinushanth/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VivekVinushanth)]
