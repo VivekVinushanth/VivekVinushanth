@@ -9,7 +9,7 @@
 - 🔭 Currently working on: Human Affect Based Threat Prediction
 - 🌱 I’m currently learning: MachineLearning, DeepLearning & NN, DataMining
 - 💬 Ask me about: IAM, CIBA, EG-SMOTE 
-- :black_nib: I blog in : [Medium/Vivek_Blogs](https://medium.com/@vivekc.16)
+- :black_nib: I blog in : [Medium/Vivek_Blogs](https://medium.com/@vivekvinushanth)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vivek-vinushanth-christopher/)
 - 🐦 I am in Twitter: [Twitter](https://twitter.com/CVinushanth)
 
@@ -19,7 +19,7 @@
 
 Latest Blogs:
 
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekc.16/0)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekc.16/1)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekc.16/2)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekvinushanth/0)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekvinushanth/1)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@vivekvinushanth/2)
 
