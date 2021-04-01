@@ -5,7 +5,7 @@
 
 
 - 😃 I’m ViveVinushanth, an Undergraduate,Dept. of Computer Science & Engineering,University of Moratuwa.
-- 🏢 I was an intern @ WSO2 (Identity Server Team) 
+- 🏢 I am currently  working as Software Engineer @ WSO2 (Identity Server Team) 
 - 🔭 Currently working on: Human Affect Based Threat Prediction
 - 🌱 I’m currently learning: MachineLearning, DeepLearning & NN, DataMining
 - 💬 Ask me about: IAM, CIBA, EG-SMOTE 
