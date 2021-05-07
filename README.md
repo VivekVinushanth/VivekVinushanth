@@ -6,8 +6,8 @@
 
 - 😃 I’m ViveVinushanth, an Undergraduate,Dept. of Computer Science & Engineering,University of Moratuwa.
 - 🏢 I am currently  working as Software Engineer @ WSO2 (Identity Server Team) 
-- 🔭 Currently working on: Human Affect Based Threat Prediction
-- 🌱 I’m currently learning: MachineLearning, DeepLearning & NN, DataMining
+<!--- 🔭 Currently working at: Human Affect Based Threat Prediction -->
+- 🌱 I’m currently learning: IAM domain in more detail
 - 💬 Ask me about: IAM, CIBA, EG-SMOTE 
 - :black_nib: I blog in : [Medium/Vivek_Blogs](https://medium.com/@vivekvinushanth)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vivek-vinushanth-christopher/)
