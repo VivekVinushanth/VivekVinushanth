@@ -4,7 +4,7 @@
 **VivekVinushanth/VivekVinushanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 😃 I’m Vivek Vinushanth, a Graduate from Dept. of Computer Science & Engineering,University of Moratuwa.
+- 😃 I’m Vivekvinushanth, graduated from Dept. of Computer Science & Engineering,University of Moratuwa.
 - 🏢 I am currently  working as Software Engineer @ WSO2 (Identity Server Team) 
 - 🌱 I’m currently learning: IAM domain in more detail
 - 💬 Ask me about: IAM, CIBA, EG-SMOTE 
