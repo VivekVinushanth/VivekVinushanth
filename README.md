@@ -5,7 +5,7 @@
 
 
 - 😃 I’m Vivekvinushanth, graduated from Dept. of Computer Science & Engineering,University of Moratuwa.
-- 🏢 I am currently  working as Software Engineer @ WSO2 (Identity Server Team) 
+- 🏢 I am currently  working as Senior Software Engineer @ WSO2 (Asgardeo Team) 
 - 🌱 I’m currently learning: IAM domain in more detail
 - 💬 Ask me about: IAM, CIBA, EG-SMOTE 
 - :black_nib: I blog in : [Medium/Vivek_Blogs](https://medium.com/@vivekvinushanth)
